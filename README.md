@@ -7,6 +7,7 @@ Language: EN
 Technology Stack: Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, SciPy), Jupyter Notebook
 
 Results:
+
 Conducted comprehensive data preparation (cleaning, normalization) and analysis. Trained a Random Forest ML model to determine the significance of predictors. Achieved an acceptable F1-score of 0.78, with insulin and glucose levels identified as the most important predictors. The main challenge was handling a large number of missing values (~50% of data in one column). The most effective solution involved using an auxiliary "SVC" model.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -48,7 +49,7 @@ Results:
 
 - Courses Summary: Offers a thorough overview of the courses. It includes course ratings based on various metrics, a funnel showing the percentage of students who enroll in a course after purchase and complete it, as well as an analysis of average course completion time and student progress levels.
 
-- Financial Metrics Summary: Provides in-depth financial analysis, including RFM analysis of the customer base. It allows tracking of financial performance, assessing profitability and customer loyalty, and identifying trends and patterns in financial data.
+- Financial Metrics Summary: Provides financial analysis, including RFM analysis of the customer base. It allows tracking of financial performance, assessing profitability and customer loyalty, and identifying trends and patterns in financial data.
 
 - Course Purchase Trends and ABC Analysis: Analyzes course purchases, revealing key trends and student preferences. It includes ABC analysis to identify the most profitable and purchased courses, with breakdowns by categories, and cohort analysis of repeat purchases, tracking customer behavior across different cohorts and identifying recurring buying patterns.
 
