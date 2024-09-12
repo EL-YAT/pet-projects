@@ -61,4 +61,11 @@ How to Improve the Project:
 
 3. Analyze the performance of professor.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Club Attendance Analysis**
 
+File: анализ_посещаемости_кружка.pdf
+
+Language: RU
+
+Technology Stack: Looker Studio, BigQuery, Google Sheets
